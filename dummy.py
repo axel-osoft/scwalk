@@ -10,3 +10,4 @@ c = 10
 b == c
 
 print(a)
+print(b)
